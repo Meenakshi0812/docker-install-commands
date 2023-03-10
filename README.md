@@ -9,9 +9,8 @@
 *   o	Port (SSH by default takes port number 22)
 
 ## Install Docker in AWS Linux 2 ##
-Markup :  Common text
-Update OS packages
-*  sudo yum update -y
+  Update OS packages
+[ sudo yum update -y ]
 
 
 
