@@ -10,7 +10,7 @@
 
 ## Install Docker in AWS Linux 2 ##
   Update OS packages
-** sudo yum update -y
+** sudo yum update -y **
 
 
 
