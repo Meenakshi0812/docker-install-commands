@@ -3,11 +3,10 @@
 * Launch an EC2 instance with AWS Linux 2 and create key pair in ppk format
 * We are going to use Putty and Super putty to connect our instances. You can use any SSH client to connect.
 * to connect any instance you need to provide
-Plain Text
-o	IP
-o	Username
-o	Password/private key
-o	Port (SSH by default takes port number 22)
+IP
+Username
+Password/private key
+Port (SSH by default takes port number 22)
 
 
 
